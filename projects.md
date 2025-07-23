@@ -20,4 +20,4 @@ Bungie / Sony
 [Steam Page](https://store.steampowered.com/app/2336880/Destiny_2_The_Final_Shape/)
 
 
-I'm always working on something in my spare time! I participate in game jams and upload the results to <a class="inline-link" href="https://gibbsgames.itch.io/" target="_blank">Itch.io</a> with the source code available on <a href="https://github.com/kgibbsdev" target="_blank">Github</a>!
+I'm always working on something in my spare time! Game jams, hack-a-thons, and personal projects are available on <a href="https://github.com/kgibbsdev" target="_blank">Github</a>!
