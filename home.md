@@ -8,7 +8,11 @@ permalink: /
 
 Hello! My name is Kyle Gibbs, and I'd like to work with you!
 
-I'm a Backend and Tools developer with experience working for companies of any size or industry. I'm strongest in the .NET suite of technologies (C#, ASP.NET, SQL Server), but I also have experience with several other languages in a backend context like Python, C++, Go, and Javascript. I'm also a quick learner - picking up complex topics and proprietary tools quickly for a shorter ramp-up time.
+Here's a quick summary about myself.
+
+I'm a Backend and Tools developer with experience working for companies of any size or industry. I'm strongest in the .NET suite of technologies (C#, ASP.NET, SQL Server), but I also have experience with several other languages in a backend context like Python, C++, Go, and Javascript.
+
+I'm a quick learner - picking up complex topics and proprietary tools quickly for a shorter ramp-up time.
 
 I'm passionate about good technical docs. Is your documentation out of date, disorganized, or a pain point for your team? I have experience writing accessible technical documentation for humans of any tech knowledge level.
 
