@@ -7,6 +7,15 @@ permalink: /projects/
 
 These are the games where you'll find my name in the credits!
 
+
+Marathon
+Bungie / Sony
+[Steam Page](https://store.steampowered.com/app/3065800/Marathon/)
+
+Destiny 2 - Renegades Expansion
+Bungie / Sony
+[Steam Page](https://store.steampowered.com/app/3186540/Destiny_2_Renegades)
+
 Destiny 2 - The Edge of Fate Expansion
 Bungie / Sony
 [Steam Page](https://store.steampowered.com/app/3186490/Destiny_2_The_Edge_of_Fate/)
