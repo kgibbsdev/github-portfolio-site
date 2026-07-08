@@ -10,7 +10,7 @@ These are the games where you'll find my name in the credits!
 Subnautica 2
 Unknown Worlds
 [Steam Page](https://store.steampowered.com/app/1962700/Subnautica_2/)
-Credits page: https://subnautica.com/en/credits
+[Credits page](https://subnautica.com/en/credits)
 
 Marathon
 Bungie / Sony
